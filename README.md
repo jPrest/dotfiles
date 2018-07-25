@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/jPrest/dotfiles/master/scripts/bootstra://raw.githubusercontent.com/jPrest/dotfiles/master/scripts/bootstrap|bash -
+Install dotfiles with `https://raw.githubusercontent.com/jPrest/dotfiles/master/scripts/bootstra://raw.githubusercontent.com/jPrest/dotfiles/master/scripts/bootstrap|bash -`
